@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+.group{
+    height: 88px;
+}
+#ak{
+    margin-left: 49%;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+.a{
+    margin-left: 40%;
+    margin-top: 3%;
+    height: 45px;
+    width: 300;
+    
+}
+
+.b{
+    margin-left: 40%;
+    height: 45px;
+    width: 300;
+    margin-top:2%;
+    
+
+}
+.c{
+    margin-left: 40%;
+    height: 45px;
+    width: 300;
+     margin-top:2%;
+}
+.d{
+    margin-left: 40%;
+    height: 45px;
+    width: 300;
+    margin-top:2%;
+}
+
+.t{
+    margin-top: 4%;
+    margin-left: 45%;
+    
+}
+.ajay{
+    color: rgb(7, 7, 7);
+    background-color: rgb(252, 252, 0);
+    border-color: rgb(234, 255, 0);
+    border-radius: 5%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   width: 170px;
+   height: 50px;
+}
